@@ -16,3 +16,7 @@ Manifest-V3-Extension: In der Adresszeile `ddd` tippen, Leerzeichen, dann ein Wo
 3. Enter → öffnet `https://de.wiktionary.org/wiki/Lebenslauf`.
 
 Mehrere Wörter werden mit Unterstrich verknüpft (`foo bar` → `…/wiki/foo_bar`). Sonderzeichen werden URL-kodiert.
+
+## Datenschutz
+
+Die Erweiterung erhebt keine Nutzerdaten. Siehe [privacy.md](privacy.md).
