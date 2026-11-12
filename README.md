@@ -1,4 +1,4 @@
-# ddd – Chrome Omnibox → de.wiktionary
+# ddd - der die das?
 
 Manifest-V3-Extension: In der Adresszeile `ddd` tippen, Leerzeichen, dann ein Wort – Enter öffnet den deutschen Wiktionary-Eintrag.
 

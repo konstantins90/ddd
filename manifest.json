@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ddd – de.wiktionary",
+  "name": "ddd - der die das?",
   "version": "1.0.0",
   "description": "Omnibox-Suche: ddd <wort> öffnet den Eintrag auf dem deutschen Wiktionary.",
   "omnibox": {
@@ -16,7 +16,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "ddd – tippe ddd <wort> in die Adresszeile",
+    "default_title": "ddd - der die das? — tippe ddd <wort> in die Adresszeile",
     "default_icon": {
       "16": "icons/icon16.png",
       "32": "icons/icon32.png",
