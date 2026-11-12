@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ddd - der die das?",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Omnibox-Suche: ddd <wort> öffnet den Eintrag auf dem deutschen Wiktionary.",
   "omnibox": {
     "keyword": "ddd"
